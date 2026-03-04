@@ -25,15 +25,3 @@ def greet(name):
 def add_numbers(a, b):
     return a + b
 # Simple Tool
-
-A beginner-friendly Python project that demonstrates basic functions, user input, and modular code.
-
-## Features
-- Greets the user
-- Adds two numbers
-- Modular design for easy expansion
-
-## Future Ideas
-- Add subtraction, multiplication, division
-- Add error handling
-- Turn into a CLI tool
